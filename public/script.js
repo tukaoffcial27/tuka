@@ -16,7 +16,7 @@ const portfolioData = [
     { name: "Invoice Maker Pro", url: "https://invoicemakerpro.netlify.app", desc: "Professional Invoice Generator" },
     { name: "QR Menu Pro", url: "https://qrmenupro.netlify.app", desc: "Digital Restaurant Menu" },
     // Menambahkan 2 Website Baru Sesuai Instruksi
-    { name: "Calculator HPP", url: "https://calculatorhpp.netlify.app/", desc: "Production Cost Calculator" },
+    { name: "Calculator HPP", url: "https://smartcalculator.guidify.app//", desc: "Production Cost Calculator" },
     { name: "Surat Jalan Pro", url: "https://suratjalan.guidify.app/", desc: "Professional Delivery Order Tool" }
 ];
 
