@@ -1,5 +1,5 @@
 {
-  "name": "tuka-pseo",
+  "name": "tuka-official-site",
   "version": "1.0.0",
   "scripts": {
     "build": "node generate.js"
