@@ -10,10 +10,10 @@ const portfolioData = [
     { name: "PDF Pixofy", url: "https://pdf.pixofy.app", desc: "PDF Utility SaaS" },
     { name: "Kwintasi Maker", url: "https://kwitansimaker.guidify.app/", desc: "Digital Receipt Generator" },
     { name: "CV Builder", url: "https://cvbuilder.guidify.app/", desc: "Professional Resume Builder" },
-    { name: "Quotation Maker Pro", url: "https://quotationmaker.guidify.app/.app", desc: "Business Quotation Tool" },
+    { name: "Quotation Maker Pro", url: "https://quotationmaker.guidify.app/", desc: "Business Quotation Tool" },
     { name: "Ship Label Maker", url: "https://shippinglabel.guidify.app/", desc: "Shipping Label Generator" },
-    { name: "Payslip Maker", url: "https://shippinglabel.guidify.app/", desc: "Employee Salary Slip Tool" },
-    { name: "Invoice Maker Pro", url: "https://invoicemakerpro.netlify.app", desc: "Professional Invoice Generator" },
+    { name: "Payslip Maker", url: "https://payslipmaker.guidify.app/", desc: "Employee Salary Slip Tool" },
+    { name: "Invoice Maker Pro", url: "https://invoicemaker.guidify.app/", desc: "Professional Invoice Generator" },
     { name: "QR Menu Pro", url: "https://menudigital.guidify.app/", desc: "Digital Restaurant Menu" },
     // Menambahkan 2 Website Baru Sesuai Instruksi
     { name: "Calculator HPP", url: "https://smartcalculator.guidify.app//", desc: "Production Cost Calculator" },
